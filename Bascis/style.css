@@ -1,0 +1,15 @@
+#more_events{
+    width:200px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 100px 20px;
+    text-align: center;
+    
+}
+
+/* #vue_app{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
