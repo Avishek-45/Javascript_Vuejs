@@ -6,7 +6,11 @@
     text-align: center;
     
 }
+.available span{
 
+    background: green;
+    border: 1px solid black
+}
 /* #vue_app{
     display: flex;
     justify-content: center;
